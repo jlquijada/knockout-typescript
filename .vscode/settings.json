@@ -1,0 +1,41 @@
+{
+    "editor.bracketPairColorization.enabled": true,
+    "editor.detectIndentation": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "eslint.options": {
+        "extensions": [
+            ".ts",
+            ".html"
+        ]
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "html"
+    ],
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "i18n-ally.displayLanguage": "de",
+    "i18n-ally.indent": 4,
+    "i18n-ally.keystyle": "nested",
+    "i18n-ally.localesPaths": "src/assets/i18n",
+    "i18n-ally.sortKeys": true,
+    "i18n-ally.sourceLanguage": "de",
+    "i18n-ally.tabStyle": "space",
+    "ng-evergreen.upgradeChannel": "Latest",
+    "prettier.bracketSpacing": true,
+    "prettier.printWidth": 12000,
+    "prettier.semi": true,
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": false,
+    "typescript.tsdk": "./node_modules/typescript/lib",
+    "workbench.editor.highlightModifiedTabs": true
+}

@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        /* Basic Options */
+        "target": "esnext",
+        "module": "commonjs",
+        "allowJs": true,
+        "noEmit": true,
+        "isolatedModules": true,
+        /* Strict Type-Checking Options */
+        "strict": true,
+        /* Module Resolution Options */
+        "moduleResolution": "node",
+        "baseUrl": "./src",
+        /* Advanced Options */
+        "forceConsistentCasingInFileNames": true
+    },
+    "include": [
+        "./src/"
+    ]
+}
