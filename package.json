@@ -1,6 +1,7 @@
 {
     "scripts": {
         "serve": "webpack-dev-server",
+        "serve-o": "webpack-dev-server --open",
         "build": "webpack --mode production"
     },
     "dependencies": {
