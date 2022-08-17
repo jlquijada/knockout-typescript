@@ -7,13 +7,21 @@ Based on the example found in [Using TypeScript With Knockout](https://keepingup
 Run the following commands in the parent directory for your project:
 
 `mkdir project-name`
+
 `cd project-name`
+
 `npm init -y`
+
 `git init && git add . && git commit -m "Initial commit"`
+
 `npm i --save knockout`
+
 `npm i --save-dev typescript`
+
 `npm i --save-dev webpack webpack-cli webpack-dev-server html-webpack-plugin error-overlay-webpack-plugin html-loader`
+
 `npm i --save-dev @babel/core @babel/preset-env @babel/preset-typescript @babel/plugin-proposal-class-properties babel-loader`
+
 `npm i --save-dev css-loader dart-sass sass-loader style-loader mini-css-extract-plugin`
 
 ## Adding the index.html file
